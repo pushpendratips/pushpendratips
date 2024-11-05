@@ -1,6 +1,6 @@
 ![logo](https://github.com/pushpendratips/pushpendratips/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Pushpendra Tripathi</h1>
-<h3 align="center">Software Engineer || AI Enthusiast | Teacher | YouTuber (1.5K+) || 24K + @Linkedin Family 💙 Angular Developer ⚛️ React Developer || FULL STACK DEVELOPER 👨‍💻 700 + @Twitter family 💪</h3>
+<h3 align="center">Software Engineer || AI Enthusiast | Teacher | YouTuber (1.5K+) || 24K + @Linkedin Family 💙 Angular Developer ⚛️ React Developer || FULL STACK DEVELOPER 👨‍💻 800 + @Twitter family 💪</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
