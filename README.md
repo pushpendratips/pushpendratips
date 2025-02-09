@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/pushpendratips" target="blank"><img src="https://img.shields.io/twitter/follow/pushpendratips?logo=twitter&style=for-the-badge" alt="pushpendratips" /></a> </p>
 
-- 📫 How to reach me **pushpendra195@gmail.com**
+- 📫 How to reach me **trippushpendra195@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
